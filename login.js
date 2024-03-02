@@ -1,1 +1,1 @@
-aaaaaaa = bb + ccc + UI update + signup 
+aaaaaaa = bb + ccc + social login
